@@ -3,6 +3,7 @@ package com.sj.s1.method;
 public class MethodMain {
 
 	public static void main(String[] args) {
+		System.out.println("zz");
 		ReturnStudy rs = new ReturnStudy();
 		rs.test2();
 		System.out.println("hi");
