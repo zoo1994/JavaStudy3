@@ -1,7 +1,7 @@
 package com.sj.s1.method;
 
 public class MethodMain {
-
+	System.out.println("n");
 	public static void main(String[] args) {
 		ReturnStudy rs = new ReturnStudy();
 		rs.test2();
