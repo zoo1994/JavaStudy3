@@ -9,6 +9,16 @@ public class Student {
 	int math;
 	int total;
 	double avg;
-	String msg = "hello";
+	
+	public void makeTotal() {
+		this.total = this.kor + this.eng + this.math ;
+		this.avg = this.total/3.0;
+	
+	}
+	
+	public void hello() {
+		System.out.println("hi");
+		
+	}
 
 }
