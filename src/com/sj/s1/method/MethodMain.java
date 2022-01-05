@@ -1,8 +1,11 @@
 package com.sj.s1.method;
 
 public class MethodMain {
-	System.out.println("n");
+//	main문
+//1프로그램 start와 초기화 
+//2test
 	public static void main(String[] args) {
+		System.out.println("n");
 		System.out.println("zz");
 		ReturnStudy rs = new ReturnStudy();
 		rs.test2();

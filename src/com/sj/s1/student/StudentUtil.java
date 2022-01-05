@@ -1,7 +1,7 @@
-package com.sj.s1.method;
+package com.sj.s1.student;
 
 import java.util.Scanner;
-
+//학생 객체를 생성하고 정보를 입력받는곳
 public class StudentUtil {
 	//키보드로부터 이릅, 번호, 국어, 영어, 수학 입력 리턴
 	
