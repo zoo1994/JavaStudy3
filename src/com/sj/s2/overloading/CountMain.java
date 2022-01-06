@@ -6,6 +6,7 @@ public class CountMain {
 		Count count = new Count();
 		count.hap(1, 0);
 
+		System.out.println();
+		
 	}
-
 }
